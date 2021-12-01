@@ -3,8 +3,8 @@ Eu me chamo Lucas da Costa, gosto de criar, codar e ajudar outras pessoas a faze
 
 <div align="center">
   <a href="https://github.com/lucascostass">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=lucascostass&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascostass&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lucascostass&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascostass&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   ##
