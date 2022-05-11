@@ -1,5 +1,5 @@
 ### Olá devs
-Eu me chamo Lucas da Costa, gosto de criar, codar e ajudar outras pessoas a fazerem o mesmo.
+Eu me chamo Lucas Santos, gosto de criar, codar e ajudar outras pessoas a fazerem o mesmo.
   ##
 <div style="display: inline_block"><br>
   <img align="right" width="350" height="auto" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
